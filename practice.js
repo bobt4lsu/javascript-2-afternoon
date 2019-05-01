@@ -18,7 +18,7 @@ let me = {
   name: "Bob",
   age: 49
 }
-alert(me.name);
+//alert(me.name);
 
 ////////// PROBLEM 2 //////////
 
@@ -73,7 +73,7 @@ backPack.color = "black";
   After you do the above, alert your entire backPack object.
 */
 
-alert(backPack);
+//alert(backPack);
 
 /*
 You probably noticed that it just alerted [object Object].

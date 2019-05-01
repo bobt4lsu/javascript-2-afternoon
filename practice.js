@@ -15,10 +15,10 @@
 */
 
 let me = {
-  name: "Bob",
+  name: "Bob Thompson",
   age: 49
 }
-//alert(me.name);
+//gialert(me.name);
 
 ////////// PROBLEM 2 //////////
 
